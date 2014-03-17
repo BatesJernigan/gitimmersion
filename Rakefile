@@ -1,5 +1,5 @@
 task :default => :run 
 
 task :run do
-	require './lib/helloTestGit'
+	ruby '-Ilib', './lib/helloTestGit.rb'
 end
