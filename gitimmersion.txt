@@ -1,0 +1,53 @@
+commit 747d333edec4966792b813ed051381e0110e38e5
+Author: Bates Jernigan <bates1012@gmail.com>
+Date:   Mon Mar 17 18:04:16 2014 -0400
+
+    Changed README in original repo
+
+commit 68b6f9a7ec0043a7a3e9dbef902bd5c5c84789f6
+Author: Bates Jernigan <bates1012@gmail.com>
+Date:   Mon Mar 17 17:15:59 2014 -0400
+
+    Updated Rakefile
+
+commit 2a08efa8e027c8aa062b1e4cad30da3f81a99772
+Author: Bates Jernigan <bates1012@gmail.com>
+Date:   Mon Mar 17 17:20:31 2014 -0400
+
+    Added README
+
+commit b5af1e099acc9e29810019b4597698b8632f6c4f
+Author: Bates Jernigan <bates1012@gmail.com>
+Date:   Mon Mar 17 16:24:56 2014 -0400
+
+    Added a Rakefile.
+
+commit a042b36510712e32c59936808b93f2140641ed14
+Author: Bates Jernigan <bates1012@gmail.com>
+Date:   Mon Mar 17 16:17:12 2014 -0400
+
+    Moved hello.rb to lib
+
+commit 005efddbc8f47970cbbb3bb4a10adff2a82e45c0
+Author: saasbook <saasbook@saasbook.(none)>
+Date:   Mon Mar 17 16:10:59 2014 -0400
+
+    Add an author/email comment
+
+commit 1dbb4793dae3a4f9038d4d1620fcb78bc8fb6269
+Author: Bates Jernigan <bates1012@gmail.com>
+Date:   Sun Mar 16 22:58:34 2014 -0400
+
+    Added a comment
+
+commit 1672be27e52adc314fbcbe4f7dcbd8ca32e75b67
+Author: Bates Jernigan <bates1012@gmail.com>
+Date:   Sun Mar 16 22:57:27 2014 -0400
+
+    Added a default vaule
+
+commit 981bca5701fcbcb21098584fe1b609b34f110948
+Author: BatesJernigan <bates1012@aol.com>
+Date:   Sun Mar 16 22:38:52 2014 -0400
+
+    First Commit
